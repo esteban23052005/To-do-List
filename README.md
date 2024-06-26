@@ -7,4 +7,7 @@ Como se menciono, es una lista de tareas que ademas de ayudarte a recordar cosas
 ## Ejecutar la Aplicación
 Para iniciar la aplicación, puedes acceder a el siguiente enlace: https://main--to-do-list1265612.netlify.app/
 
+## Instalacion
+ Para tener todas las dependencias necesarias, ejecutar el siguiente link por consola: npm install
+
 
