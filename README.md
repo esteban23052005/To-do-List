@@ -5,6 +5,6 @@
 Como se menciono, es una lista de tareas que ademas de ayudarte a recordar cosas, tambien hay un modo de filtro de completados, no completados y todos
 
 ## Ejecutar la Aplicación
-Para iniciar la aplicación, puedes acceder a el siguiente enlace: [https://main--to-do-list1265612.netlify.app/](url)
+Para iniciar la aplicación, puedes acceder a el siguiente enlace: https://main--to-do-list1265612.netlify.app/
 
 
